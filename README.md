@@ -10,9 +10,11 @@ File I/O | Menu-Driven | Password-Protected Admin Panel
 
 
 ---Overview
+
 This system allows users to add, view, update, search, delete, sort, and store student records in a structured manner. The application uses file handling to ensure that data is saved and can be retrieved later, making the program more practical and useful.
 
 ---Features
+
 1.Add Student Record
   
   Allows entry of essential student details such as roll number, name, gender, age, CGPA, marks for three subjects, grade, city, and mobile number.
